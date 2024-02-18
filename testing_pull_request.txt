@@ -1,1 +1,1 @@
-yep
+This pull request should now require an approval before merging.
