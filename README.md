@@ -1,4 +1,4 @@
-# First_project
+# README
 
 Any changes to the repository should be made through pull requests in order to be reviewed and tracked easier.
 
